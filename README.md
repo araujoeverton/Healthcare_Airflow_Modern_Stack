@@ -1,16 +1,16 @@
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/Healthcare_Airflow_Modern_Stack/dev-dbt/assets/healthcare-airflow-modern-stack-banner.jpg" width="1080"/> ...
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/Apache_kafka_wordtype.svg" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/Healthcare_Airflow_Modern_Stack/7870e8086b52deae4ca9562f0c17fb707ab8d7ad/assets/dbt-signature_tm.svg" width="200"/>
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize o material deste repositório para estudo!
-<a href="https://github.com//araujoeverton/XP_Bootcamp_Engenharia_de_Dados//fork">
+<a href="https://github.com//araujoeverton/Healthcare_Airflow_Modern_Stack/fork">
     <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-## Detalhes da formação
+## Detalhes do Projeto
 
 A XP Investimentos investe em formação e conhecimento! Um dos bancos líderes de mercado e em inovação preparou o Bootcamp Engenheiro de Dados!
 
