@@ -32,10 +32,7 @@ Neste projeto serão utilizados o Mongodb, Airbyte, Apache Airflow, Dbt e Snowfl
 <br><br>
 <b>Snowflake:</b> Utiliza instâncias virtuais para as necessidades de computação e um serviço para armazenamento persistente de dados. Possui uma alta escalabilidade e a execução das consultas é realizada na camada de processamento. O Snowflake processa as consultas utilizando «warehouses virtuais». Cada warehouse virtual é um cluster de computação MPP composto de múltiplos nós de computação alocados pelo Snowflake a partir de um provedor de nuvem.
 
-
-
-
-
+Link da base de dados: [Personal-Key-Indicators-Of-Heart-Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 
 
 
@@ -46,7 +43,7 @@ Neste projeto serão utilizados o Mongodb, Airbyte, Apache Airflow, Dbt e Snowfl
 ### Repositório destinado à estudos e documentação do projeto de formação.
 
 
-<div align="center">
+<div align="left">
   <p>
       <img src="https://img.shields.io/github/languages/count/alexklenio/DIO-dotnet-developer"/>
       <img src="https://img.shields.io/github/repo-size/alexklenio/DIO-dotnet-developer"/>
