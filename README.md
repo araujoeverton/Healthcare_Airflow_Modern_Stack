@@ -1,33 +1,45 @@
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/Healthcare_Airflow_Modern_Stack/dev-dbt/assets/healthcare-airflow-modern-stack-banner.jpg" width="1080"/> ...
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/Apache_kafka_wordtype.svg" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/Healthcare_Airflow_Modern_Stack/7870e8086b52deae4ca9562f0c17fb707ab8d7ad/assets/dbt-signature_tm.svg" width="200"/>
 
 # Autorização de Uso
+
 ### 1. Salve uma cópia e utilize o material deste repositório para estudo!
-<a href="https://github.com//araujoeverton/XP_Bootcamp_Engenharia_de_Dados//fork">
+<a href="https://github.com//araujoeverton/Healthcare_Airflow_Modern_Stack/fork">
     <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-## Detalhes da formação
+## Introdução
 
-A XP Investimentos investe em formação e conhecimento! Um dos bancos líderes de mercado e em inovação preparou o Bootcamp Engenheiro de Dados!
+Segundo o Centro de Controle e Prevenção de Doenças (CDC), problemas cardíacos representam uma das principais causas de óbito entre várias etnias nos Estados Unidos, incluindo afro-americanos, índios americanos, nativos do Alasca e caucasianos. Quase metade da população americana (47%) apresenta pelo menos um dos três fatores de risco significativos para o desenvolvimento de doenças cardíacas, que são hipertensão arterial, alto nível de colesterol e hábito de fumar. Adicionalmente, diabetes, obesidade (indicada por um Índice de Massa Corporal elevado), insuficiência de exercício físico, ou o consumo abusivo de álcool são também considerados fatores cruciais.
 
-O objetivo é simples: Formar profissionais capazes de trabalhar com Engenharia de Dados na construção de pipelines de dados e em outras soluções de dados que requeiram etapas de coleta, preparação, armazenamento e processamento de dados.
+### Objetivo
 
-Conhecer as técnicas e tecnologias usadas na construção do pipeline de dados (data flow) que envolvem processos de coleta, preparação, armazenamento e acesso a dados, além da integração e combinação de diferentes fontes de dados.
+Através de uma Stack Moderna de Engenharia de Dados, fornecer dados que permitem a aplicação de métodos de aprendizagem de máquina para detectar “padrões” nos dados que podem prever a condição de um paciente.
 
-Durante dois meses, iremos imergir no mundo da engenharia de dados, e trazer uma solução real e completa, que abrande um projeto de streaming de dados com Apache Kafka!
-Seja muito bem vindo(a) a esta jornada!
+### Ferramentas Utilizadas
 
-### Atividades:
+Neste projeto serão utilizados o Mongodb, Airbyte, Apache Airflow, Dbt e Snowflake.<br><br>
+<b>Mongodb:</b> Por ser baseado em documentos e sua capacidade de indexação eficiente, o que pode ser especialmente útil para aplicações que lidam com grandes volumes de dados.
+<br><br>
+<b>Airbyte:</b> O Airbyte possui um scheduler integrado e utiliza o [Temporal](https://airbyte.com/blog/scale-workflow-orchestration-with-temporal) para orquestrar tarefas e garantir confiabilidade em escala. O Airbyte aproveita o [dbt](https://www.youtube.com/watch?v=saXwh6SpeHA) para normalizar dados extraídos e pode acionar transformações personalizadas em SQL e dbt. Você também pode orquestrar sincronizações do Airbyte com o [Airflow](https://docs.airbyte.com/operator-guides/using-the-airflow-airbyte-operator).
+<br><br>
+<b>Apache Airflow:</b> São diversas as vantagens de se usar o Airflow, dentre elas está sua UI que nos possibilita monitoramento e logs para identificar eventuais problemas, flexibilidade ao poder ser utilizado em diversos serviços, facilidade de criar e alterar fluxos simples e complexos de dados ( Dags ), entre outros.
+<br><br>
+<b>Dbt:</b> Simplifica consideravelmente a modelagem de dados ao empregar o SQL como sua linguagem principal, além de ter uma fácil implementação e controle de versionamento.
+<br><br>
+<b>Snowflake:</b> Utiliza instâncias virtuais para as necessidades de computação e um serviço para armazenamento persistente de dados. Possui uma alta escalabilidade e a execução das consultas é realizada na camada de processamento. O Snowflake processa as consultas utilizando «warehouses virtuais». Cada warehouse virtual é um cluster de computação MPP composto de múltiplos nós de computação alocados pelo Snowflake a partir de um provedor de nuvem.
 
-Aulas gravadas: As aulas são gravadas, divididas em 5 módulos que totalizam 32 horas de duração.
 
-Aulas interativas (Live): Momento em que você irá se inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
 
-Desafio Final: Construção de um projeto End-to-End, utilizando o aclamado Apache Kafka.
+
+
+
+
+
+
 
 
 
